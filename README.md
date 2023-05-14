@@ -1,0 +1,2 @@
+# USB-CDC-TEST
+GNSS via USB
